@@ -1,1 +1,3 @@
-# job-hunting-app-197371-197510
+# Project Repository
+
+This is the initial README file for the project.
